@@ -1,0 +1,29 @@
+E = 9V
+It = 24mA
+Vf = 2V
+
+Branch 1
+
+Vr1 = 5V
+R1 = 625R
+I1 = 8mA
+
+
+Branch 2
+
+Vr2 = 7
+R2 = 777.8R
+I2 = 9mA
+
+
+Branch 3
+
+Vr3 = 7
+R = 1000R
+I3 = 7mA
+
+R = R/2
+
+R3 = 500
+
+R4 = 500
